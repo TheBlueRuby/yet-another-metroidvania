@@ -1,0 +1,261 @@
+{ "compressionlevel":-1,
+ "height":18,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7,
+            7, 3, 6, 6, 6, 6, 6, 6, 6, 6, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 6, 6, 6, 6, 6, 6, 6, 6, 6, 4, 7,
+            7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 7,
+            7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 14, 6,
+            7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5, 5, 5, 5, 5, 5, 5, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            6, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 7, 7, 7, 7, 7, 7, 7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 7, 7, 7, 7, 3, 6, 6, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 7, 7, 7, 7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5,
+            0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0, 0, 0, 18, 7, 7, 7, 7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 7,
+            0, 0, 0, 0, 0, 0, 18, 19, 0, 0, 0, 0, 0, 18, 7, 7, 7, 7, 19, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 7,
+            5, 5, 5, 5, 5, 5, 17, 16, 5, 5, 5, 5, 5, 17, 7, 7, 7, 7, 16, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 17, 7,
+            7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7
+        ],
+         "height":18,
+         "id":1,
+         "name":"main layer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":32,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.9.1",
+ "tileheight":12,
+ "tilesets":[
+        {
+         "columns":13,
+         "firstgid":1,
+         "image":"tileset.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"tileset",
+         "spacing":0,
+         "tilecount":169,
+         "tileheight":12,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":6,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":13,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":14,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":15,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":16,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":17,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":18,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }],
+         "tilewidth":12,
+         "transformations":
+            {
+             "hflip":true,
+             "preferuntransformed":true,
+             "rotate":true,
+             "vflip":true
+            },
+         "wangsets":[
+                {
+                 "colors":[
+                        {
+                         "color":"#ff0000",
+                         "name":"Cyan Grassy",
+                         "probability":1,
+                         "tile":-1
+                        }, 
+                        {
+                         "color":"#00ff00",
+                         "name":"Dark Fill",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"Cyan Grass-Dark Fill",
+                 "tile":-1,
+                 "type":"mixed",
+                 "wangtiles":[
+                        {
+                         "tileid":0,
+                         "wangid":[1, 1, 2, 2, 2, 1, 1, 1]
+                        }, 
+                        {
+                         "tileid":1,
+                         "wangid":[1, 1, 1, 1, 2, 2, 2, 1]
+                        }, 
+                        {
+                         "tileid":2,
+                         "wangid":[2, 2, 2, 1, 2, 2, 2, 2]
+                        }, 
+                        {
+                         "tileid":3,
+                         "wangid":[2, 2, 2, 2, 2, 1, 2, 2]
+                        }, 
+                        {
+                         "tileid":4,
+                         "wangid":[1, 1, 2, 2, 2, 2, 2, 1]
+                        }, 
+                        {
+                         "tileid":5,
+                         "wangid":[2, 2, 2, 1, 1, 1, 2, 2]
+                        }, 
+                        {
+                         "tileid":6,
+                         "wangid":[2, 2, 2, 2, 2, 2, 2, 2]
+                        }, 
+                        {
+                         "tileid":13,
+                         "wangid":[2, 2, 2, 1, 1, 1, 1, 1]
+                        }, 
+                        {
+                         "tileid":14,
+                         "wangid":[2, 1, 1, 1, 1, 1, 2, 2]
+                        }, 
+                        {
+                         "tileid":15,
+                         "wangid":[2, 1, 2, 2, 2, 2, 2, 2]
+                        }, 
+                        {
+                         "tileid":16,
+                         "wangid":[2, 2, 2, 2, 2, 2, 2, 1]
+                        }, 
+                        {
+                         "tileid":17,
+                         "wangid":[2, 2, 2, 2, 2, 1, 1, 1]
+                        }, 
+                        {
+                         "tileid":18,
+                         "wangid":[2, 1, 1, 1, 2, 2, 2, 2]
+                        }, 
+                        {
+                         "tileid":26,
+                         "wangid":[1, 1, 1, 1, 1, 1, 1, 1]
+                        }]
+                }]
+        }],
+ "tilewidth":12,
+ "type":"map",
+ "version":"1.9",
+ "width":32
+}

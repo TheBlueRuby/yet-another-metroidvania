@@ -1,0 +1,259 @@
+{ "compressionlevel":-1,
+ "height":18,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 31, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20,
+            20, 16, 19, 19, 19, 19, 19, 19, 19, 19, 28, 1, 1, 1, 1, 1, 1, 1, 1, 1, 27, 19, 19, 19, 19, 19, 19, 19, 19, 19, 17, 20,
+            20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 31, 20,
+            20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 27, 19,
+            20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 14, 18, 18, 18, 18, 18, 18, 18, 15, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            19, 28, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 31, 20, 20, 20, 20, 20, 20, 20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 31, 20, 20, 20, 20, 16, 19, 19, 28, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+            1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 31, 20, 20, 20, 20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 14, 15,
+            1, 1, 1, 1, 1, 1, 14, 15, 1, 1, 1, 1, 1, 31, 20, 20, 20, 20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 31, 20,
+            1, 1, 1, 1, 1, 1, 31, 32, 1, 1, 1, 1, 1, 31, 20, 20, 20, 20, 32, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 31, 20,
+            18, 18, 18, 18, 18, 18, 30, 29, 18, 18, 18, 18, 18, 30, 20, 20, 20, 20, 29, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 30, 20,
+            20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+         "height":18,
+         "id":1,
+         "name":"main layer",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":32,
+         "x":0,
+         "y":0
+        }],
+ "nextlayerid":2,
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.9.1",
+ "tileheight":12,
+ "tilesets":[
+        {
+         "columns":13,
+         "firstgid":1,
+         "image":"tileset.png",
+         "imageheight":160,
+         "imagewidth":160,
+         "margin":0,
+         "name":"tileset",
+         "spacing":0,
+         "tilecount":169,
+         "tileheight":12,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":2,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":5,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":6,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":13,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":14,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":15,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":16,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":17,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }, 
+                {
+                 "id":18,
+                 "properties":[
+                        {
+                         "name":"collider",
+                         "type":"string",
+                         "value":""
+                        }]
+                }],
+         "tilewidth":12,
+         "transformations":
+            {
+             "hflip":true,
+             "preferuntransformed":true,
+             "rotate":true,
+             "vflip":true
+            },
+         "wangsets":[
+                {
+                 "colors":[
+                        {
+                         "color":"#ff0000",
+                         "name":"Cyan Grassy",
+                         "probability":1,
+                         "tile":-1
+                        }, 
+                        {
+                         "color":"#00ff00",
+                         "name":"Dark Fill",
+                         "probability":1,
+                         "tile":-1
+                        }],
+                 "name":"Cyan Grass-Dark Fill",
+                 "tile":-1,
+                 "type":"mixed",
+                 "wangtiles":[
+                        {
+                         "tileid":13,
+                         "wangid":[1, 1, 2, 2, 2, 1, 1, 1]
+                        }, 
+                        {
+                         "tileid":14,
+                         "wangid":[1, 1, 1, 1, 2, 2, 2, 1]
+                        }, 
+                        {
+                         "tileid":15,
+                         "wangid":[2, 2, 2, 1, 2, 2, 2, 2]
+                        }, 
+                        {
+                         "tileid":16,
+                         "wangid":[2, 2, 2, 2, 2, 1, 2, 2]
+                        }, 
+                        {
+                         "tileid":17,
+                         "wangid":[1, 1, 2, 2, 2, 2, 2, 1]
+                        }, 
+                        {
+                         "tileid":18,
+                         "wangid":[2, 2, 2, 1, 1, 1, 2, 2]
+                        }, 
+                        {
+                         "tileid":19,
+                         "wangid":[2, 2, 2, 2, 2, 2, 2, 2]
+                        }, 
+                        {
+                         "tileid":26,
+                         "wangid":[2, 2, 2, 1, 1, 1, 1, 1]
+                        }, 
+                        {
+                         "tileid":27,
+                         "wangid":[2, 1, 1, 1, 1, 1, 2, 2]
+                        }, 
+                        {
+                         "tileid":28,
+                         "wangid":[2, 1, 2, 2, 2, 2, 2, 2]
+                        }, 
+                        {
+                         "tileid":29,
+                         "wangid":[2, 2, 2, 2, 2, 2, 2, 1]
+                        }, 
+                        {
+                         "tileid":30,
+                         "wangid":[2, 2, 2, 2, 2, 1, 1, 1]
+                        }, 
+                        {
+                         "tileid":31,
+                         "wangid":[2, 1, 1, 1, 2, 2, 2, 2]
+                        }, 
+                        {
+                         "tileid":32,
+                         "wangid":[1, 1, 1, 1, 1, 1, 1, 1]
+                        }]
+                }]
+        }],
+ "tilewidth":12,
+ "type":"map",
+ "version":"1.9",
+ "width":32
+}
