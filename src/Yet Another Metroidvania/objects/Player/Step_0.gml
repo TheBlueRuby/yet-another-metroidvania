@@ -1,12 +1,11 @@
 var bbox_side;
 
-up_pressed    = (keyboard_check(vk_up)    || keyboard_check(ord("W")));
-down_pressed  = (keyboard_check(vk_down)  || keyboard_check(ord("S")));
-left_pressed  = (keyboard_check(vk_left)  || keyboard_check(ord("A")));
-right_pressed = (keyboard_check(vk_right) || keyboard_check(ord("D")));
+up_pressed    = (keyboard_check(vk_up)    || keyboard_check(ord("W")) || keyboard_check(vk_space));
+left_pressed  = (keyboard_check(vk_left)  || keyboard_check(ord("A"))                            );
+right_pressed = (keyboard_check(vk_right) || keyboard_check(ord("D"))                            );
 
 xSpeed = (right_pressed - left_pressed) * 5;
-ySpeed = (down_pressed  - up_pressed  ) * 14 + 6;
+ySpeed = (0             - up_pressed  ) * 14 + 6;
 
 //Horizontal Collision
     if (xSpeed > 0) {
