@@ -1,11 +1,15 @@
 {
   "resources": [
     {"id":{"name":"map1","path":"rooms/map1/map1.yy",},"order":0,},
-    {"id":{"name":"collisionMask","path":"sprites/collisionMask/collisionMask.yy",},"order":15,},
+    {"id":{"name":"collisionMask","path":"sprites/collisionMask/collisionMask.yy",},"order":4,},
+    {"id":{"name":"MZM","path":"fonts/MZM/MZM.yy",},"order":0,},
     {"id":{"name":"tileset_terrain_cyangrass_darkfill","path":"sprites/tileset_terrain_cyangrass_darkfill/tileset_terrain_cyangrass_darkfill.yy",},"order":2,},
+    {"id":{"name":"healthFont","path":"fonts/healthFont/healthFont.yy",},"order":1,},
     {"id":{"name":"tileset_terrain_cyangrass_dark_smol","path":"sprites/tileset_terrain_cyangrass_dark_smol/tileset_terrain_cyangrass_dark_smol.yy",},"order":1,},
     {"id":{"name":"player_test","path":"sprites/player_test/player_test.yy",},"order":0,},
-    {"id":{"name":"Player","path":"objects/Player/Player.yy",},"order":0,},
+    {"id":{"name":"oHealthPickup","path":"objects/oHealthPickup/oHealthPickup.yy",},"order":1,},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"healthPickup","path":"sprites/healthPickup/healthPickup.yy",},"order":1,},
     {"id":{"name":"CollisionMask","path":"tilesets/CollisionMask/CollisionMask.yy",},"order":3,},
     {"id":{"name":"terrain_cyangrass_darkfill","path":"tilesets/terrain_cyangrass_darkfill/terrain_cyangrass_darkfill.yy",},"order":0,},
   ],
@@ -14,7 +18,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "isDnDProject": false,
+  "isDnDProject": true,
   "isEcma": false,
   "configs": {
     "name": "Default",

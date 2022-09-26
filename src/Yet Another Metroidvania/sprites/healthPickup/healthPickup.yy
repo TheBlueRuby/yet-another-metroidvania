@@ -1,5 +1,5 @@
 {
-  "bboxMode": 0,
+  "bboxMode": 1,
   "collisionKind": 1,
   "type": 0,
   "origin": 0,
@@ -7,15 +7,15 @@
   "edgeFiltering": false,
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
-  "bbox_left": 36,
+  "bbox_left": 0,
   "bbox_right": 71,
   "bbox_top": 0,
-  "bbox_bottom": 35,
+  "bbox_bottom": 71,
   "HTile": false,
   "VTile": false,
   "For3D": false,
   "width": 72,
-  "height": 36,
+  "height": 72,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"5ec33451-8e86-40d3-84a7-9d6f8a3661ae","path":"sprites/collisionMask/collisionMask.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"5ec33451-8e86-40d3-84a7-9d6f8a3661ae","path":"sprites/collisionMask/collisionMask.yy",},"LayerId":{"name":"f886a783-66d6-4ed5-8f07-525cf3ed381c","path":"sprites/collisionMask/collisionMask.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"collisionMask","path":"sprites/collisionMask/collisionMask.yy",},"resourceVersion":"1.0","name":"5ec33451-8e86-40d3-84a7-9d6f8a3661ae","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"c18a7981-c1f8-4169-85a6-9f412780d539","path":"sprites/healthPickup/healthPickup.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"c18a7981-c1f8-4169-85a6-9f412780d539","path":"sprites/healthPickup/healthPickup.yy",},"LayerId":{"name":"1ccb429b-5266-429e-a6e0-f41aded86adb","path":"sprites/healthPickup/healthPickup.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"healthPickup","path":"sprites/healthPickup/healthPickup.yy",},"resourceVersion":"1.0","name":"c18a7981-c1f8-4169-85a6-9f412780d539","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"collisionMask","path":"sprites/collisionMask/collisionMask.yy",},
+    "spriteId": {"name":"healthPickup","path":"sprites/healthPickup/healthPickup.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"a274dd03-4ff3-4554-9419-59a706f48cd3","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"5ec33451-8e86-40d3-84a7-9d6f8a3661ae","path":"sprites/collisionMask/collisionMask.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"77792229-8ebc-41d9-8069-dd70aaa0fce9","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"c18a7981-c1f8-4169-85a6-9f412780d539","path":"sprites/healthPickup/healthPickup.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack","modifiers":[],},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"collisionMask","path":"sprites/collisionMask/collisionMask.yy",},
+    "parent": {"name":"healthPickup","path":"sprites/healthPickup/healthPickup.yy",},
     "resourceVersion": "1.4",
-    "name": "collisionMask",
+    "name": "healthPickup",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"f886a783-66d6-4ed5-8f07-525cf3ed381c","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"1ccb429b-5266-429e-a6e0-f41aded86adb","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Tile Sets",
-    "path": "folders/Tile Sets.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "collisionMask",
+  "name": "healthPickup",
   "tags": [],
   "resourceType": "GMSprite",
 }
