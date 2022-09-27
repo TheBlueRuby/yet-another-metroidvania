@@ -7,7 +7,7 @@
     right_pressed = (keyboard_check(vk_right) || keyboard_check(ord("D"))                            );
 
     xSpeed = (right_pressed - left_pressed) * 7;
-    ySpeed = (0             - up_pressed  ) * 20 + 9.81;
+    ySpeed = (0             - up_pressed  ) * 25 + 10;
 
     //Horizontal Collision
         if (xSpeed > 0) {
