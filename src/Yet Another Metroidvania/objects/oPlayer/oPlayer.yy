@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "player_test",
-    "path": "sprites/player_test/player_test.yy",
+    "name": "spr_playerTest",
+    "path": "sprites/spr_playerTest/spr_playerTest.yy",
   },
   "solid": false,
   "visible": true,
@@ -33,6 +33,8 @@
     {"isDnD":false,"eventNum":64,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oHealthPickup","path":"objects/oHealthPickup/oHealthPickup.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":72,"eventType":7,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"oBlasterUpgrade","path":"objects/oBlasterUpgrade/oBlasterUpgrade.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

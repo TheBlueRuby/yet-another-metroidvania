@@ -18,6 +18,8 @@
 
         if (    (tilemap_get_at_pixel(collisionMap, bbox_side + xSpeed, bbox_top   ) != 0) 
             ||  (tilemap_get_at_pixel(collisionMap, bbox_side + xSpeed, bbox_bottom) != 0)
+			||  (tilemap_get_at_pixel(collisionMap, bbox_side + xSpeed, y		   ) != 0) 
+            ||  (tilemap_get_at_pixel(collisionMap, bbox_side + xSpeed, y		   ) != 0)
             ) 
         {
             if (xSpeed > 0) 

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_healthPickup",
-    "path": "sprites/spr_healthPickup/spr_healthPickup.yy",
+    "name": "spr_blasterUpgrade",
+    "path": "sprites/spr_blasterUpgrade/spr_blasterUpgrade.yy",
   },
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oHealthPickup",
+  "name": "oBlasterUpgrade",
   "tags": [],
   "resourceType": "GMObject",
 }
