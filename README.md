@@ -18,7 +18,8 @@ D or →		  - Move Right
 
 # Credits
 
-Yet Another Metroidvania by Mite Productions
+Yet Another Metroidvania by TheBluerRuby  
+Published by Mite Productions
 
 YoYo Games for GameMaker  
 Nintendo for inspiration  
