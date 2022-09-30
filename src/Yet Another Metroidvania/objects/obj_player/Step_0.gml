@@ -72,5 +72,5 @@ if (!oBtnManager.menuOpen){
     if (!up_pressed) {
         jumpTimer = 0;
     }
-    show_debug_message("Timer: " + string(jumpTimer) + " Y Speed: "+ string(ySpeed));
+    //show_debug_message("Timer: " + string(jumpTimer) + " Y Speed: "+ string(ySpeed));
 }
