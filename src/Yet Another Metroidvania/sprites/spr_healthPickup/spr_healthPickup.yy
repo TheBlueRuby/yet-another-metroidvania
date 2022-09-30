@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "pickups",
+    "path": "folders/Sprites/entities/pickups.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_healthPickup",

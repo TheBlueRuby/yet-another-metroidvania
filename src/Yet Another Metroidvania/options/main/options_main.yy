@@ -10,7 +10,7 @@
   "option_author": "TheBlueRuby",
   "option_collision_compatibility": false,
   "option_copy_on_write_enabled": false,
-  "option_lastchanged": "26 September 2022 3:34:37",
+  "option_lastchanged": "28 September 2022 19:52:38",
   "option_spine_licence": false,
   "option_template_image": "${base_options_dir}/main/template_image.png",
   "option_template_icon": "${base_options_dir}/main/template_icon.png",

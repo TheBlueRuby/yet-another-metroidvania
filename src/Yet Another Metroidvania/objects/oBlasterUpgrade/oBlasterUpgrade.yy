@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "pickups",
+    "path": "folders/Objects/entities/pickups.yy",
   },
   "resourceVersion": "1.0",
   "name": "oBlasterUpgrade",
