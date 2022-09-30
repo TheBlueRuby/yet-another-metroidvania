@@ -23,7 +23,14 @@ if (!oBtnManager.menuOpen){
     right_pressed = (keyboard_check(vk_right) || keyboard_check(ord("D"))                             || controllerRight);
 
     xSpeed = (right_pressed - left_pressed) * 7;
-    ySpeed = (0             - up_pressed  ) * 32 + 12;
+
+    if (jumpTimer < 16) {
+        ySpeed = (0             - up_pressed  ) * 32 + 16;
+        jumpTimer = jumpTimer + 1;
+    } else if (jumpTimer >= 16) {
+        ySpeed = lerp(ySpeed, 16, (jumpTimer - 16)/50);
+		jumpTimer = jumpTimer + 1;
+    }
 
     //Horizontal Collision
         if (xSpeed > 0) {
@@ -61,4 +68,9 @@ if (!oBtnManager.menuOpen){
             ySpeed = 0;
         }
     y += ySpeed;
+
+    if (!up_pressed) {
+        jumpTimer = 0;
+    }
+    show_debug_message("Timer: " + string(jumpTimer) + " Y Speed: "+ string(ySpeed));
 }

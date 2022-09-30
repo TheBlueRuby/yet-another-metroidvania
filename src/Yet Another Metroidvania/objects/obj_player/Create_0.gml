@@ -1,6 +1,7 @@
  //Movement & Collision
 xSpeed = 0;
 ySpeed = 0;
+jumpTimer = 0;
 
 collisionMap = layer_tilemap_get_id("CollisionMask");
 
@@ -20,3 +21,5 @@ ini_write_string("world", "map", room_get_name(room));
 ini_close();
 
 show_debug_message("Player Obj Created with X " + string(x) + " and Y " + string(y));
+
+invincible = false;
