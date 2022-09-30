@@ -24,6 +24,7 @@ Published by Mite Productions
 
 YoYo Games for GameMaker  
 Nintendo for inspiration  
+cubeww for GMS2FreeExportToWin  
 The rest of Mite Productions - General assistance
 
 ---
