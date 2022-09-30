@@ -1,22 +1,23 @@
 # Yet Another Metroidvania
 
 by TheBlueRuby & Mite Productions
+
 ---
 
-# About
-I have been playing a lot of Metroid recently and I wanted to try recreate it's gameplay.  
+## About
+
+I have been playing a lot of Metroid recently and I wanted to try recreate its gameplay.  
 Made in GameMaker 2.  
 
+## Controls
 
-# Controls
+W, Space or ↑ - Jump
 
-W, Space or ↑ - Jump (no height cap currently)
+A or ←    - Move Left
 
-A or ←		  - Move Left
+D or →    - Move Right
 
-D or →		  - Move Right
-
-# Credits
+## Credits
 
 Yet Another Metroidvania by TheBluerRuby  
 Published by Mite Productions
@@ -27,7 +28,7 @@ The rest of Mite Productions - General assistance
 
 ---
 
-## Mite Productions
+### Mite Productions
 
 Co-Founders - BixBox and TheBlueRuby
 
